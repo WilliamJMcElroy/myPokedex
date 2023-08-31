@@ -1,0 +1,10 @@
+{
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "javascript.preferences.importModuleSpecifierEnding": "js",
+  "cSpell.words": [
+    "pokeapi",
+    "Pokeball",
+    "Pokemax",
+    "POKEYBOIS"
+  ],
+}
